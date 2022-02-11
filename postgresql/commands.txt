@@ -1,0 +1,10 @@
+PostgreSQL Commands
+
+\l - list 
+
+CREATE DATABASE <databasename>;
+\du - roles
+GRANT ALL PRIVILEGES ON DATABASE "<database>" TO <user>
+\l
+\c <database> - connect to a database
+\d - describe
